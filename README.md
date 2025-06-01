@@ -45,9 +45,17 @@
 
 ### 🚀 Projects
 
-#### [Real-Time Text Translator Chrome Extension](https://github.com/Varni1512/LanguageTranslatorExtension)
+#### [Weather Forecaster](https://github.com/VaibhavS0710/WeatherForcast)
 - **Tech Stack:** HTML, CSS, JS
-- To help users quickly understand foreign language text without leaving the webpage.
+- To help users quickly get updated with their city weather.
+
+#### [Imagica- Text to Image](https://github.com/VaibhavS0710/Imagica-Project)
+- **Tech Stack:** Full Stack(MERN)
+- Turn your text into creative Images.
+
+#### [SpendSmart-Your-Personal-Finance-Companion](https://github.com/VaibhavS0710/SpendSmart-Your-Personal-Finance-Companion)
+- **Tech Stack:** Full Stack(MERN)
+- To help users in planning their finance.
   
 ---
 
